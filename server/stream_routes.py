@@ -6,7 +6,7 @@ import math
 import logging
 import secrets
 import mimetypes
-from .config import Config
+from ovo.config import Config
 from aiohttp import web
 from ovo import StreamBot
 from utils.custom_dl import TGCustomYield, chunk_size, offset_fix
