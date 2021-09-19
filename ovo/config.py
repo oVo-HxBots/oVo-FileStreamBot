@@ -29,4 +29,4 @@ class Config(object):
     FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU else APP_NAME+'.herokuapp.com'
     DATABASE_URL = "mongodb+srv://user:user@cluster0.x7biw.mongodb.net/filestreambot"
     JOIN_CHANNEL = "hxbots"
-    BANNED_CHANNELS = list(set(int(x) for x in str(getenv("BANNED_CHANNELS", "-1001378693486")).split()))
+    BANNED_CHANNELS = "-1001378693486"
