@@ -1,7 +1,7 @@
 <h1 align="center">oVo-FileStreamBot</h3>
 <p align="center">
   <a href="https://github.com/oVo-HxBots/oVo-FileStreamBot">
-    <img src="https://socialify.git.ci/oVo-HxBots/oVo-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&pattern=Charlie%20Brown&pulls=1&stargazers=1&theme=Dark" alt=oVo-FileStreamBot" width="640" height="320" />
+    <img src="https://socialify.git.ci/oVo-HxBots/oVo-FileStreamBot/image?description=1&descriptionEditable=A%20Telegram%20Bot%20To%20Get%20Direct%20Links%20Of%20Telegram%20Files.&font=Inter&forks=1&issues=1&language=1&logo=https%3A%2F%2Ftelegra.ph%2Ffile%2F9775836743f3ce560d360.jpg&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Light" alt=oVo-FileStreamBot" width="640" height="320" />
   </a>
   <p align="center">
     A Telegram Bot To Get Direct Links Of Telegram Files.<br/>
