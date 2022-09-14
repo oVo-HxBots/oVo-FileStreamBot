@@ -1,1 +1,1 @@
-web: python3 -m ovo
+web: python -m main

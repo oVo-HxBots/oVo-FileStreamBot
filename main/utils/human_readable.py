@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# (c) oVoIndia | oVo-HxBots
-
+# This file is a part of oVo-FileStreamBot 
 
 def humanbytes(size):
     # https://stackoverflow.com/a/49361727/4723940
