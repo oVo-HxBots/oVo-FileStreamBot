@@ -26,8 +26,8 @@ class Language(object):
         ABOUT_TEXT = """
 <b>⚜ My Name : oVo-FileStreamBot</b>\n
 <b>⚜ Username : @oVo_FileStreamBot
-<b>🔸Version : 2.0</b>\n
-<b>🔹Last Updated : [ 11-Sep-22 ]</b>
+<b>🔸Version : 2.1</b>\n
+<b>🔹Last Updated : [ 09-May-23 ]</b>
 """
 
         stream_msg_text ="""
